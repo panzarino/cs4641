@@ -1,0 +1,11 @@
+The original data for this project is contained in original.csv.
+The modified data that was actually used is contained in data.csv. This data is exactly the same just without column labels or id numbers.
+
+A description of the data features can be found in features.pdf.
+
+Dependencies can be installed with the following command:
+pip install -r requirements.txt
+
+The main project is located in final.ipynb. This is a Jupyter Notebook file that contains python code with saved output. Running all the cells in this file will produce the output used in the report.
+
+The final report can be found in report.pdf.
